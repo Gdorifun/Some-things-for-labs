@@ -1,0 +1,104 @@
+{"users":
+[
+  {
+    "id": "1",
+    "name": "Attack on Titan Final",
+    "email": "The last chapter of the legendary anime"
+  },
+  {
+    "id": "2",
+    "name": "Fullmetal Alchemist: Brotherhood",
+    "email": "В этом мире существуют алхимики — люди, владеющие искусством алхимии, способностью манипулировать материей и преобразовывать вещество. Все они ограничены основным Законом алхимии:"
+  },
+  {
+    "id": "3",
+    "name": "Stein's Gate",
+    "email": "Story about time travelling"
+  },
+  {
+    "id": "4",
+    "name": "Bleach",
+    "email": "BAN-KAI!!!"
+  },
+  {
+    "id": "5",
+    "name": "Gintama 4",
+    "email": "qwerty@gmail.com"
+  },
+  {
+    "id": "6",
+    "name": "Kaguya-sama",
+    "email": "abc@gmail.com"
+  },
+  {
+    "id": "7",
+    "name": "Attack on titan 3",
+    "email": "def@gmail.com"
+  },
+  {
+    "id": "8",
+    "name": "Gintama: Final",
+    "email": "xyz@gmail.com"
+  },
+  {
+    "id": "9",
+    "name": "Gintama 2",
+    "email": "qwerty@gmail.com"
+  },
+  {
+    "id": "10",
+    "name": "Hunter x Hunter",
+    "email": "abc@gmail.com"
+  },
+  {
+    "id": "11",
+    "name": "Legend of the heroes of galaxy",
+    "email": "def@gmail.com"
+  },
+  {
+    "id": "12",
+    "name": "Gintama 3",
+    "email": "xyz@gmail.com"
+  },
+  {
+    "id": "13",
+    "name": "March's Lion",
+    "email": "qwerty@gmail.com"
+  },
+  {
+    "id": "14",
+    "name": "Form of Voice",
+    "email": "abc@gmail.com"
+  },
+  {
+    "id": "15",
+    "name": "Clannad",
+    "email": "def@gmail.com"
+  },
+  {
+    "id": "16",
+    "name": "Code Giass",
+    "email": "xyz@gmail.com"
+  },
+  {
+    "id": "17",
+    "name": "Violet Evergarden",
+    "email": "qwerty@gmail.com"
+  },
+  {
+    "id": "18",
+    "name": "Bocchi the Rock!",
+    "email": "abc@gmail.com"
+  },
+  {
+    "id": "19",
+    "name": "Monogatari 2",
+    "email": "def@gmail.com"
+  },
+  {
+    "id": "20",
+    "name": "Monster",
+    "email": "xyz@gmail.com"
+  }
+]
+}
